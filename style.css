@@ -72,9 +72,10 @@ button {
     background: var(--Very-light-gray);
     border: 2px solid transparent;
     border-radius: 25px;
-    padding: 13px 30px;
+    padding: 12px 29px;
     margin: 12px 0 0 0;
-    font-weight: 700;
+    font-family: 'Lexend Deca', sans-serif;
+    font-weight: 400;
     font-size: 15px;
 }
 .sedan:hover {
